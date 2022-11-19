@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621964915271",
+    "project_id": "zoom-meeting-3d217",
+    "storage_bucket": "zoom-meeting-3d217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621964915271:android:b0022b4a5a3c29fa24b762",
+        "android_client_info": {
+          "package_name": "com.example.zoom_meeting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621964915271-a4fq7hjdolh9efviu361mkm05jctsqj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvG4XjfnEiqAOJP4PlKvEkrH0TyWFt4sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621964915271-a4fq7hjdolh9efviu361mkm05jctsqj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
