@@ -27,6 +27,7 @@ class _HomeScreenState extends State<HomeScreen> {
     const Text('Contacts'),
     CustomButton(text: 'Log Out', function: () => AuthMethods.signOut()),
   ];
+  //
 //
   @override
   Widget build(BuildContext context) {
